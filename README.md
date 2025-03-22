@@ -39,6 +39,6 @@ This project provides a customized tmux configuration file and a Python script t
 1. Clone the repository:
 ```bash
 git clone https://github.com/dip-bash/cli_desktop_proto.git
-cd your-repo-name
+cd cli_desktop_proto
 chmod +x install.sh
 ./install.sh
