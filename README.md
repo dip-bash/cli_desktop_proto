@@ -42,3 +42,5 @@ git clone https://github.com/dip-bash/cli_desktop_proto.git
 cd cli_desktop_proto
 chmod +x install.sh
 ./install.sh
+
+tmux
